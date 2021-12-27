@@ -5,10 +5,7 @@
 霓裳羽衣 by Poto
 
 ### 霓裳羽衣
-基于小鹤音形的霓裳主题，所做的体验优化。
-- 空格文字抹去，纯空白；
-- 长按回车切换输入法；
-- 图标替换。收起输入法、切换输入法
+将两个 yaml 文件拖到 Flypy 文件夹中，部署。
 
 ![image](https://user-images.githubusercontent.com/59009389/147461801-cf2663f2-2954-42aa-bda8-392a0c4bb213.png)
  
